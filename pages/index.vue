@@ -1,5 +1,5 @@
 <template>
-    <section id="home" class="w-full h-svh flex justify-center items-center bg-cover bg-center bg-[url('/dunk.jpg')]">
+    <section id="home" class="w-full h-svh flex justify-center items-center bg-cover bg-center bg-[url('/dunk.webp')]">
         <div class="w-full h-full gap-3 flex justify-center bg-black/25">
             <div class="container px-4 md:p-0 flex flex-col justify-center">
                 <div>
@@ -27,7 +27,7 @@
         <div class="container grid md:grid-cols-2">
             <!-- Bio -->
             <div class="px-4 mb-8">
-                <img src="/elis.jpg" alt="William Elis" />
+                <img src="/elis.webp" alt="William Elis" />
             </div>
             <div class="px-4 mb-8">
                 <h3 class="text-xl font-bold mb-2">Bio</h3>
@@ -47,7 +47,7 @@
             <div class="flex flex-wrap -mx-4">
                 <div class="w-full md:w-1/3 px-4 mb-8">
                     <div
-                        class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/teamplay.jpg')]">
+                        class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/teamplay.webp')]">
                     </div>
                     <div class="p-2 md:p-0 mt-2">
                         <h3 class="text-xl font-bold mb-2">Push your own growth</h3>
@@ -57,7 +57,7 @@
                 <!-- Discussion Forum -->
                 <div class="w-full md:w-1/3 px-4 mb-8">
                     <div
-                        class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/ChaseYourDreams.jpg')]">
+                        class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/ChaseYourDreams.webp')]">
                     </div>
                     <div class="p-2 md:p-0 mt-2">
                         <h3 class="text-xl font-bold mb-2">Discussion Forum</h3>
@@ -67,7 +67,7 @@
                 <!-- Event Calendar -->
                 <div class="w-full md:w-1/3 px-4 mb-8">
                     <div
-                        class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/reachHigherLevels.jpg')]">
+                        class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/reachHigherLevels.webp')]">
                     </div>
                     <div class="p-2 md:p-0 mt-2">
                         <h3 class="text-xl font-bold mb-2">Event Calendar</h3>
@@ -84,7 +84,7 @@
         <div class="flex flex-wrap -mx-4">
             <!-- Article -->
             <div class="w-full md:w-1/3 px-4 mb-8">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/intensity.jpg')]">
+                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/intensity.webp')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Training Tips</h3>
@@ -93,7 +93,7 @@
             </div>
             <!-- Interview -->
             <a class="w-full md:w-1/3 px-4 mb-8" href="https://www.instagram.com/p/C6_0-ylusMt/">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/interviews.jpg')]">
+                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/interviews.webp')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Interviews</h3>
@@ -103,7 +103,7 @@
             <!-- Behind-the-scenes -->
             <a class="w-full md:w-1/3 px-4 mb-8" href="https://www.instagram.com/ellisreps_/">
                 <div
-                    class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.jpg')]">
+                    class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.webp')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Vlogs</h3>
