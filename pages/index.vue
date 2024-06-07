@@ -22,16 +22,14 @@
     <!-- About Section -->
     <section id="about" class="container mx-auto py-16">
         <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center">About the Athlete</h2>
-        <div class="flex flex-wrap -mx-4">
+        <div class="container grid md:grid-cols-2">
             <!-- Bio -->
-            <div class="w-full md:w-2/3 px-4 mb-8">
-                <h3 class="text-xl font-bold mb-2">Bio</h3>
-                <p>A detailed story about the athlete's journey, accomplishments, and philanthropic efforts.</p>
+            <div class="px-4 mb-8">
+                <img src="/placeholder.svg" />
             </div>
-            <!-- Contact Information -->
-            <div class="w-full md:w-1/3 px-4 mb-8">
-                <h3 class="text-xl font-bold mb-2">Contact</h3>
-                <p>Reach out via social media or our contact form.</p>
+            <div class="px-4 mb-8">
+                <h3 class="text-xl font-bold mb-2">Bio</h3>
+                <p>Revamped to be discussed with Elis</p>
             </div>
         </div>
     </section>
@@ -141,7 +139,7 @@
 
             <h2 class="text-3xl font-bold mb-4 mt-6 text-center">Get in Touch!</h2>
 
-            <div class="grid grid-cols-2 -mx-4">
+            <div class="grid md:grid-cols-2 -mx-4">
                 <!-- Services -->
                 <div class="w-full px-6 mb-8">
                     <h2 class="text-xl font-bold mb-4">Social Media!</h2>
