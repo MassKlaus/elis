@@ -25,7 +25,7 @@
         <div class="container grid md:grid-cols-2">
             <!-- Bio -->
             <div class="px-4 mb-8">
-                <img src="/placeholder.svg" />
+                <img src="/elis.jpg" alt="William Elis" />
             </div>
             <div class="px-4 mb-8">
                 <h3 class="text-xl font-bold mb-2">Bio</h3>
