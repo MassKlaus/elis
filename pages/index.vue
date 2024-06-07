@@ -9,10 +9,10 @@
                     people.
                 </p>
                 <div>
-                    <button
+                    <a href="https://www.instagram.com/ellisreps_/"
                         class="btn-join bg-orange-500 hover:bg-orange-700 mt-4 text-white font-bold py-2 px-4 rounded">
                         Join the Community
-                    </button>
+                    </a>
                 </div>
             </div>
 
@@ -21,7 +21,7 @@
 
     <!-- About Section -->
     <section id="about" class="container mx-auto py-16">
-        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center">About the Athlete</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-8 ">About the Athlete</h2>
         <div class="container grid md:grid-cols-2">
             <!-- Bio -->
             <div class="px-4 mb-8">
@@ -43,7 +43,6 @@
             </div>
 
             <div class="flex flex-wrap -mx-4">
-                <!-- Featured Community Members -->
                 <div class="w-full md:w-1/3 px-4 mb-8">
                     <div
                         class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/teamplay.jpg')]">
@@ -79,11 +78,11 @@
 
     <!-- Blog Section -->
     <section id="blog" class="container mx-auto py-16">
-        <h2 class="text-3xl md:text-4xl font-bold mb-8 text-center">Some of My posts</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-8">Some of My posts</h2>
         <div class="flex flex-wrap -mx-4">
             <!-- Article -->
             <div class="w-full md:w-1/3 px-4 mb-8">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/workout.jpg')]">
+                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/intensity.png')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Training Tips</h3>
@@ -101,11 +100,11 @@
             </a>
             <!-- Behind-the-scenes -->
             <a class="w-full md:w-1/3 px-4 mb-8" href="https://www.instagram.com/ellisreps_/">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/workout.jpg')]">
+                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.png')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Vlogs</h3>
-                    <p>A glimpse into my training regimen.</p>
+                    <p>A glimpse into my carreer and life.</p>
                 </div>
             </a>
         </div>
@@ -115,7 +114,7 @@
     <section id="services" class="bg-gray-100 py-16">
         <div class="container mx-auto">
             <div class="">
-                <h2 class="text-3xl md:text-4xl font-bold mb-4 text-center">My Services</h2>
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">My Services</h2>
 
                 <h4 class="text-lg font-bold">
                     1 on 1 Coaching
@@ -137,7 +136,7 @@
                 </p>
             </div>
 
-            <h2 class="text-3xl font-bold mb-4 mt-6 text-center">Get in Touch!</h2>
+            <h2 class="text-3xl font-bold mb-4 mt-6">Get in Touch!</h2>
 
             <div class="grid md:grid-cols-2 -mx-4">
                 <!-- Services -->
