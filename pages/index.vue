@@ -2,17 +2,19 @@
     <section id="home" class="w-full h-svh flex justify-center items-center bg-cover bg-center bg-[url('/dunk.jpg')]">
         <div class="w-full h-full gap-3 flex justify-center bg-black/25">
             <div class="container px-4 md:p-0 flex flex-col justify-center">
-                <h1 class="text-3xl font-bold text-white">A Community to Empower you</h1>
-                <p class="text-lg text-white max-w-[60ch]">
-                    Join me on a journey to empower champions and push the limits of human potential.
-                    A place to help you learn, grow and reach for your dreams. Supported by a community of like minded
-                    people.
-                </p>
                 <div>
+                    <h1 class="text-3xl font-bold text-white">A Community to Empower you</h1>
+                    <p class="text-lg text-white max-w-[60ch]">
+                        Join me on a journey to empower champions and push the limits of human potential.
+                        A place to help you learn, grow and reach for your dreams. Supported by a community of like
+                        minded
+                        people.
+                    </p>
                     <a href="https://www.instagram.com/ellisreps_/"
-                        class="btn-join bg-orange-500 hover:bg-orange-700 mt-4 text-white font-bold py-2 px-4 rounded">
+                        class="btn-join bg-orange-500 inline-block hover:bg-orange-700 mt-4 text-white font-bold py-2 px-4 rounded">
                         Join the Community
                     </a>
+
                 </div>
             </div>
 
@@ -21,7 +23,7 @@
 
     <!-- About Section -->
     <section id="about" class="container mx-auto py-16">
-        <h2 class="text-3xl md:text-4xl font-bold mb-8 ">About the Athlete</h2>
+        <h2 class="text-3xl md:text-4xl font-bold mb-8 ">Who is William Elis</h2>
         <div class="container grid md:grid-cols-2">
             <!-- Bio -->
             <div class="px-4 mb-8">
@@ -100,7 +102,8 @@
             </a>
             <!-- Behind-the-scenes -->
             <a class="w-full md:w-1/3 px-4 mb-8" href="https://www.instagram.com/ellisreps_/">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.png')]">
+                <div
+                    class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.png')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Vlogs</h3>
