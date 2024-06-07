@@ -84,7 +84,7 @@
         <div class="flex flex-wrap -mx-4">
             <!-- Article -->
             <div class="w-full md:w-1/3 px-4 mb-8">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/intensity.png')]">
+                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/intensity.jpg')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Training Tips</h3>
@@ -93,7 +93,7 @@
             </div>
             <!-- Interview -->
             <a class="w-full md:w-1/3 px-4 mb-8" href="https://www.instagram.com/p/C6_0-ylusMt/">
-                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/interviews.png')]">
+                <div class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/interviews.jpg')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Interviews</h3>
@@ -103,7 +103,7 @@
             <!-- Behind-the-scenes -->
             <a class="w-full md:w-1/3 px-4 mb-8" href="https://www.instagram.com/ellisreps_/">
                 <div
-                    class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.png')]">
+                    class="aspect-square overflow-hidden md:rounded-md bg-cover bg-center bg-[url('/Professional.jpg')]">
                 </div>
                 <div class="p-2 md:p-0 mt-2">
                     <h3 class="text-xl font-bold mb-2">Vlogs</h3>
