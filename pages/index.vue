@@ -139,7 +139,7 @@
                 </p>
             </div>
 
-            <h2 class="text-3xl font-bold mb-4 text-center">Get in Touch!</h2>
+            <h2 class="text-3xl font-bold mb-4 mt-6 text-center">Get in Touch!</h2>
 
             <div class="grid grid-cols-2 -mx-4">
                 <!-- Services -->
